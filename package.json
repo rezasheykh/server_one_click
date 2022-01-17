@@ -1,6 +1,6 @@
 {
     "name": "server_one_click",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "one click and run server...nodejs",
     "main": "server.js",
     "scripts": {
